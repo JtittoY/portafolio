@@ -1,0 +1,60 @@
+[
+    {
+        "id": "sistema-domotico-esp32",
+        "title": "sistema domotico con esp32",
+        "description": "Este es un proyecto personal nos ayuda a controlar diferentes reles que pueden estar conectados a focos, toma corrientes, ventiladores, etc. y poder controlarlos desde cualquier sitio sin nesesidad de estar en la misma red que el Esp32 tambien desde el panel administrador poder agregar a mas usuarios para que tengan acceso a los controles.",
+        "image": "",
+        "tags": [
+            "Node.js",
+            "PostgreSQL",
+            "Esp32",
+            "HTML5",
+            "CSS",
+            "JavaScript"
+        ],
+        "difficulty": "Dificil",
+        "url": "https://github.com/JtittoY/sistema-domotico-esp32.git"
+    },
+    {
+        "id": "refri-ia",
+        "title": "refri-ia",
+        "description": "Este mini proyecto es sobre la implementacion de ia a un sistema en este caso para poder insertar productos la ia te sugerira un plato y te indica como preparar paso a paso.",
+        "image": "/portafolio/assets/images/projects/refri-ia.png",
+        "tags": [
+            "Python",
+            "Flask",
+            "HTML5",
+            "CSS3 (Vanilla)",
+            "JavaScript"
+        ],
+        "difficulty": "Facil",
+        "url": "https://github.com/JtittoY/refri-ia"
+    },
+    {
+        "id": "diagramas-flujo",
+        "title": "Diagramas de Flujo",
+        "description": "Aplicación web para aprender lógica de programación mediante diagramas de flujo animados. Sincroniza la ejecución paso a paso de algoritmos con resaltado visual en SVG. Incluye 4 simuladores interactivos y un sistema de quiz con retroalimentación inmediata.",
+        "image": "/portafolio/assets/images/projects/diagramas-flujo.png",
+        "tags": [
+            "HTML5",
+            "Tailwind CSS",
+            "JavaScript"
+        ],
+        "difficulty": "Avanzado",
+        "url": "https://JtittoY.github.io/DiagramasFlujo/"
+    },
+    {
+        "id": "portafolio-modular",
+        "title": "Portafolio",
+        "description": "Este portafolio construido con React y Vite. Componentes reutilizables, datos separados de la lógica de renderizado en JSON, animaciones con Intersection Observer y despliegue continuo en GitHub Pages.",
+        "image": "/portafolio/assets/images/projects/portafolio.png",
+        "tags": [
+            "React",
+            "Vite",
+            "Tailwind CSS",
+            "GitHub Pages"
+        ],
+        "difficulty": "Intermedio",
+        "url": "https://JtittoY.github.io/portafolio/"
+    }
+]
